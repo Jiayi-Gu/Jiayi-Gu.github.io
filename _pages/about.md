@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a graduate student at MIT Operations Research Center. I am working with Prof. Dimitris Bertsimas on Machine Learning and Optimization in Healthcare.
+Hi! I am a first-year graduate student at MIT Operations Research Center. I am working with Prof. Dimitris Bertsimas on Machine Learning and Optimization in Healthcare.
